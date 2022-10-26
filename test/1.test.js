@@ -14,7 +14,7 @@ describe("1.test", function () {
   });
   it("3", async () => {
     await loadFixture(
-      fixtures.fixture1
+      fixtures.fixture2
     );
   });
   it("4", async () => {
